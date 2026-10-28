@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+connection.local.ps1
+artifacts/
+.deps/
